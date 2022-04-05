@@ -1,4 +1,4 @@
-# to-do-list-express
+# todo-list-express
 To-do-list in JS using Express/MongoDB/NodeJS
 
 npm run dev <- to start server
